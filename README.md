@@ -14,8 +14,9 @@ Welcome to my Data Science Internship repository! This repository contains all t
 *Note: This structure will be updated as new tasks are completed.*
 
 ```text
-├── Week_1_Data_Cleaning/
-│   ├── messy_applications_1000.csv    # Raw dataset (messy)
-│   ├── week_1_task.ipynb              # Jupyter Notebook with cleaning pipeline
-│   └── README.md                      # Task-specific details
-├── README.md                          # Main repository documentation
+├── .ipynb_checkpoints/            # Jupyter notebook checkpoints
+├── applicants_cleaned.csv         # Final cleaned dataset ready for analysis
+├── applicants_messy.csv           # Raw, uncleaned dataset containing errors
+├── Week_1.pdf                     # Internship task documentation and instructions
+├── week_1_task.ipynb              # Jupyter Notebook containing the data cleaning pipeline
+└── README.md                      # Main repository documentation
