@@ -20,4 +20,8 @@ Welcome to my Data Science Internship repository! This repository contains all t
 │   ├── applicants_messy.csv           # Raw, uncleaned dataset containing errors
 │   ├── Week_1.pdf                     # Internship task documentation and instructions
 │   └── week_1_task.ipynb              # Jupyter Notebook containing the data cleaning pipeline
+├── Week_02/
+│   ├── .ipynb_checkpoints/            # Jupyter notebook checkpoints
+│   ├── applicants_cleaned.csv         # Final cleaned dataset ready for analysis
+│   └── week_2_task.ipynb              # Jupyter Notebook containing the data cleaning pipeline
 └── README.md                          
